@@ -1,7 +1,6 @@
 
 print("welcome")
-g=input("guess the number")
-guess=int(g)
+guess=int(input("guess the number"))
 if guess==5:
     print("You Win!")
 else:
